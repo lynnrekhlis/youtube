@@ -1,6 +1,6 @@
 # Lynn Michelle Photography
 
-<img src="https://github.com/lynnrekhlis/youtube/blob/main/images/artwork.png" width="250">
+<img src="https://github.com/lynnrekhlis/youtube/blob/main/images/artwork.png" width="350">
 
 I’m Lynn. In my spare time, I am an award-winning, Dallas-based wedding photographer and professional groomsmen wrangler.
 
